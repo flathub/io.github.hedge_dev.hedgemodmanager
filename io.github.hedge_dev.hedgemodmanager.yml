@@ -42,8 +42,8 @@ modules:
       - type: git
         disable-shallow-clone: true
         url: https://github.com/hedge-dev/HedgeModManager.git
-        tag: 8.0.0-beta5
-        commit: 748e4b25c1b4d64110511c2ac0d394886c74e029
+        tag: 8.0.0-beta6
+        commit: fa9ad4f61e2c963985468d999e6da601c3711be5
       - type: file
         path: io.github.hedge_dev.hedgemodmanager.metainfo.xml
       - ./nuget-sources.json
